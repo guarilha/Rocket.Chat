@@ -187,7 +187,7 @@ Performance monitoring provided by [Kadira](https://kadira.io/)
 
 A lot of work has already gone into Rocket.Chat, but we have much bigger plans for it!
 
-So if you'd like to be part of the project, please check out the [roadmap](https://github.com/RocketChat/Rocket.Chat/milestones) and [issues](https://github.com/RocketChat/Rocket.Chat/issues) to see if there's anything you can help with.
+So if you'd like to be part of the project, please check out the ["How can I contribute to Rocket Chat?"](https://github.com/RocketChat/Rocket.Chat/wiki/How-can-I-contribute-to-Rocket-Chat%3F) guide.
 
 ### Translations
 
